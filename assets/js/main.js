@@ -3,7 +3,7 @@ var app = new Vue({
     data: function () {
         return {
             certs: [],
-            gist: 'https://gist.githubusercontent.com/fengkx/55678154ff2fc462f6de8a872eb75ac1/raw/cert_status.json'
+            gist: 'https://gist.githubusercontent.com/linevil/55678154ff2fc462f6de8a872eb75ac1/raw/cert_status.json'
         }
     },
     async created() {
