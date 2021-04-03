@@ -13,5 +13,5 @@ jobs:
         uses: fengkx/cert-check@1.0.0
         with:
           gist_id: '55678154ff2fc462f6de8a872eb75ac1'
-          sites: 'https://www.linevil.net , https://www.him.moe , https://blog.cn47mp.moe , https://xyx.moe'
+          sites: 'https://www.linevil.net , https://echo.moe , https://blog.cn47mp.moe , https://xyx.moe'
           github_pat: ${{ secrets.pat }}
